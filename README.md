@@ -1,6 +1,6 @@
 # Spam
-pkg install update
-pkg install upgrade
+pkg install update\n
+pkg install upgrade\n
 pkg install python
 pip install bs4
 pip install requests
